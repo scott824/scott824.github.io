@@ -33,11 +33,9 @@
           </ul>
         {% endif %}
 
-        <p>{{site.pages}}</p>
-
-        {% if site.pages %}
+        {% if site.html_pages %}
           <ul>
-            {% for page in site.pages %}
+            {% for page in site.html_pages %}
               <li>
                 <a href="{{ page.url }}">{{ page.title }}</a>
               </li>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Learning node book structure"
 date:   2017-01-17 16:16:01 -0600
 categories: learning node

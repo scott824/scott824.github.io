@@ -4,6 +4,8 @@ layout: default
 
 # [](header-1)Book Structure
 
+* * *
+
 ## Chapter 1
 
 - Introduction to Node

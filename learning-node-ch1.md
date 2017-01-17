@@ -29,6 +29,7 @@ console.log('Server running at http://127.0.0.1:8124/');
 ```
 
 To run on terminal
+
 ```
 **node hello.js**
 ```
@@ -76,7 +77,9 @@ console.log('Server running at port 8124\n');
 ```
 $ node --help
 ```
+
 or
+
 ```
 $ node -h
 ```
@@ -85,6 +88,7 @@ $ node -h
 ## Node Hosting Environment
 
 finding host
+
 ```
 https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting
 ```
@@ -92,6 +96,7 @@ https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting
 ## Upgrading Node
 
 Node version manager(nvm)
+
 ```
 https://github.com/vreationix/nvm
 ```

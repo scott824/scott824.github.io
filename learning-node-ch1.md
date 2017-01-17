@@ -8,9 +8,7 @@ layout: default
 
 Node can be installed on almost any machine and used for any purpose
 
-```
-for find: ImageMagick for batch photo editing
-```
+> for find: ImageMagick for batch photo editing
 
 
 ## A Basic Hello World Application
@@ -29,13 +27,10 @@ console.log('Server running at http://127.0.0.1:8124/');
 ```
 
 To run on terminal
-
-```
-**node hello.js**
-```
+> **node hello.js**
 
 To close the program
-_Ctrl-C_
+> _Ctrl-C_
 
 
 ## Hello World, Tweaked

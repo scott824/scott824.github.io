@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: post
+title:  "Learning node chapter 1"
+date:   2017-01-17 16:16:01 -0600
+categories: learning node
 ---
 
 # Chapter1 : The Node Environment

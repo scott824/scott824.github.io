@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Learning node book structure"
-date:   2017-01-17 16:16:01 -0600
-categories: learning node
+date:   2017-01-17 12:00:35 +0900
+categories: learning-node
 ---
 
 # [](header-1)Book Structure

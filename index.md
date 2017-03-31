@@ -122,5 +122,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 
-[Learning node book structure](learning-node/learning-node-book-structure).
-[Chapter1](learning-node/learning-node-ch1).
+[Learning node book structure](_posts/learning-node/learning-node-book-structure).
+[Chapter1](_posts/learning-node/learning-node-ch1).

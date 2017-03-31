@@ -106,7 +106,7 @@ img {
 
 header {
   width:270px;
-  /*float:left;*/
+  float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -121,11 +121,23 @@ header ul {
   width:270px;
 }
 
+header h3 {
+  margin-bottom: 15px;
+}
+header ol {
+  border-left: 1px solid #494949;
+  padding-left: 30px;
+  margin-left: 10px;
+  /*max-height: 60px;
+  overflow: scroll;*/
+}
+
 header li {
-  width:89px;
+  /*width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
-  height:40px;
+  height:40px;*/
+  margin-bottom: 2px;
 }
 
 header li:first-child a {
